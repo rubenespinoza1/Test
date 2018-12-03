@@ -9,6 +9,7 @@ public class Ventana extends JFrame{
 
     public Ventana() {
         initComponents();
+        int a = 1;
     }
     
     private void initComponents(){
